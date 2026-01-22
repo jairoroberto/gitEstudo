@@ -2,3 +2,4 @@ Sol
 Mercúrio
 Venus
 Terra
+Urano
