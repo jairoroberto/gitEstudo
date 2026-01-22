@@ -9,7 +9,8 @@
 - git push origin main (Envia para a núvem)
 - git pull origin mains (Busca da nuvem)
 
-
 ## Vamos trabalhar com Branch agora:
 
 ### O que é Branch?
+
+- Branch é um recurso que permite trabalhar em diferentes versões de um repositório ao mesmo tempo, sem interferir na versão principal (geralmente chamada de "main" ou "master").
