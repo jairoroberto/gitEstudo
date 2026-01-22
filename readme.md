@@ -6,3 +6,5 @@
 - git add .
 - git commit -m 'Mensagem do Commit'
 - git log
+- git push origin main (Envia para a núvem)
+- git pull origin mains (Busca da nuvem)
