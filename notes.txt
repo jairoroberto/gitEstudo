@@ -1,3 +1,4 @@
 Sol
 Mercúrio
 Venus
+Terra
